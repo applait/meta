@@ -14,7 +14,7 @@ Workflow
 
 2. Storing decisions
 --------------------
- - Once an issue is accepted, put that up as a wiki page with the final design decisions, maintaining a link to the issue(s) in which the decisions were taken.
+ - Once an issue is accepted, put that up as a document in the repository with the final design decisions, maintaining a link to the issue(s) in which the decisions were taken.
 
 Setting priorities through labels
 =================================
